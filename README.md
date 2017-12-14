@@ -1,8 +1,6 @@
 Guides
 ======
 
-Guides for learning + doing better web and app development. Created by [Coding For Entrepreneurs](http://joincfe.com).
-
 [Common Django URL Regular Expression Patters (regex)](./all/common_url_regex.md)
 
 [Celery & Redis with Django](./all/Celery_Redis_with_Django.md)
