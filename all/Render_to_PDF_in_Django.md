@@ -142,5 +142,4 @@ A guide to using an HTML template to create a PDF via a `render_to_pdf` utility 
     ```
 
 
-### Watch [here](https://www.codingforentrepreneurs.com/projects/render-pdf/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B7EIK9yVtGY" frameborder="0" allowfullscreen></iframe>
+
