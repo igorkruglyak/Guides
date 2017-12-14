@@ -7,12 +7,7 @@
 
 *PIP*, or Python Package Installer, allows you to install all types of python-related software (and code) include Django, Virtual environments (virtualenv), Python Requests, and more.
 
-## Setup Videos
-[On JoinCFE.com](http://joincfe.com/projects#setup)
 
-[On YouTube](https://www.youtube.com/codingentrepreneurs)
-
-			
 ## Step-by-step Text Guide
 #### Install Django/Virtualenv on a Mac OS X or Linux. 
 
@@ -85,10 +80,4 @@ NOTE: The command `sudo` will require an admin password. The same password you u
 	7. Happy Coding with Django.
 
 
-Subscribe on our [YouTube Channel](http://joincfe.com/youtube) and join us for more in-depth tutorials on [Django development](http://joincfe.com/enroll).
 
-
-Cheers!
-
-
-#### Organized by CodingForEntrepreneurs
