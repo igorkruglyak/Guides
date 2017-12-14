@@ -287,10 +287,3 @@ yourdomain.com/2015/03/21/
 ```
     
 
-
-
-If you find other regular expressions you are unsure of their meaning, feel free to [contact us](mailto:codingforentrepreneurs@gmail.com).
-
-Thank you!
-
-Coding for Entrepreneurs
