@@ -3,7 +3,6 @@ Did you close out your terminal or command prompt and forget how to get back int
 
 
 
-## Assuming you followed our [setup videos](https://codingforentrepreneurs.com/projects/#setup)... 
 
 You will go to the desktop and then to your virtualenv folder
 
@@ -57,7 +56,3 @@ or
 Once you are in, you can activate it just like above.
 
 
-Cheers!
-
-
-#### Organized by CodingForEntrepreneurs
