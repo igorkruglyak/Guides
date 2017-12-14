@@ -86,11 +86,3 @@ Cocoapods is a "CocoaPods is the dependency manager for Swift and Objective-C Co
 
 
 
-
-Subscribe on our [YouTube Channel](http://joincfe.com/youtube) and join us for more in-depth tutorials on [Django development](http://joincfe.com/enroll).
-
-
-Cheers!
-
-
-#### Organized by CodingForEntrepreneurs
