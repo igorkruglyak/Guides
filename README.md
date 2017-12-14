@@ -27,7 +27,8 @@ Guides
 
 
 ### Python: Cheat Sheet
-[Python: Cheat Sheet](./all/Python: Cheat Sheet.md)
+[Python: Cheat Sheet](./all/PythonCheatSheet.md)
+
    
 
 
