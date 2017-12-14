@@ -370,11 +370,3 @@ Launching a Django Project on Amazon Web Services (AWS) Elastic Beanstalk.
 
 
 
-
-Subscribe on our [YouTube Channel](http://joincfe.com/youtube) and join us for more in-depth tutorials on [Django development](http://joincfe.com/enroll).
-
-
-Cheers!
-
-
-#### Organized by CodingForEntrepreneurs
