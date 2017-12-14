@@ -129,10 +129,4 @@ Using Amazon Web Services (AWS) S3 For storing static and media files for a Djan
 
 
 
-Subscribe on our [YouTube Channel](http://joincfe.com/youtube) and join us for more in-depth tutorials on [Django development](http://joincfe.com/enroll).
 
-
-Cheers!
-
-
-#### Organized by CodingForEntrepreneurs
