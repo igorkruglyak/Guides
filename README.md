@@ -26,6 +26,11 @@ Guides
 [Angular Webserver with Rack](./all/angular_webserver.md)
 
 
+### Python: Cheat Sheet
+[Python: Cheat Sheet](./all/Python: Cheat Sheet.md)
+   
+
+
 ### ioT & Raspberry Pi
 
 [Django Pi Network Server Guide | Raspberry Pi + Django](./all/DjangoPiNetworkServerGuide.md)
