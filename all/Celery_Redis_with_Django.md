@@ -9,10 +9,8 @@ Django is a web framework made for perfectionists with deadlines.
 
 All three work together to make real-time magic. 
 
-## Watch this guide [here](http://joincfe.com/projects/time-tasks).
-============
 
-#### Do you have a Django Project? If not, use [this](http://kirr.co/itznm2/).
+============
 
 
 #### Let's do this!
