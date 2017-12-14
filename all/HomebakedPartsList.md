@@ -1,6 +1,5 @@
 ![Homebaked Logo](https://cfe-static.s3.amazonaws.com/media/homebaked-raspberry-pi-django/images/homebaked_iot.png)
 
-[CFE Video Series](https://www.codingforentrepreneurs.com/projects/homebaked-raspberry-pi-django/)
 
 # Homebaked Parts List
 
