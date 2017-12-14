@@ -31,7 +31,3 @@ You have two options to install Carthage. Via the installation package (pkg) or 
 Subscribe on our [YouTube Channel](http://joincfe.com/youtube) and join us for more in-depth tutorials on [Django development](http://joincfe.com/enroll).
 
 
-Cheers!
-
-
-#### Organized by CodingForEntrepreneurs
