@@ -45,12 +45,6 @@ $ kill -9 4894
 
 And that's it. You can kill this server without an error running.
 
-Please share questions/comments! (We're always looking for better ways to improve).
-
-Cheers!
-
--CodingForEntrepreneurs.com
-
 
 
 
