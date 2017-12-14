@@ -93,8 +93,3 @@ If you can do the above, you have python installed on your computer.
 You're now ready to start using Python Packages like Django!
 
 
-
-Cheers!
-
-
-#### Organized by CodingForEntrepreneurs
