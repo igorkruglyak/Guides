@@ -9,7 +9,7 @@ Basic URL Text Encoder: [http://meyerweb.com/eric/tools/dencoder/](http://meyerw
 ## Facebook
 
 ```
-<a href="https://www.facebook.com/sharer/sharer.php?u=http://CodingForEntrepreneurs.com/">
+<a href="https://www.facebook.com/sharer/sharer.php?u=http://site.com/">
 Share on Facebook
 </a>
 ```
@@ -19,19 +19,19 @@ Naturally you can replace `http://CodingForEntrepreneurs.com/` with your own lin
 ## Twitter
 
 ```
-<a href="https://twitter.com/home?status=I'm%20going%20to%20learn%20to%20Code...%20Come%20build%20an%20web%20apsp%20with%20me!%20%23CFE%20and%20@justinmitchel%20http://codingforentrepreneurs.com/">
+<a href="https://twitter.com/home?status=I'm%20going%20to%20learn%20to%20Code...%20Come%20build%20an%20web%20apsp%20with%20me!%20%23CFE%20and%20@justinmitchel%20http://site.com/">
 Share on Twitter
 </a>
 ```
 Now, Twitter is a little trickier. It needs to be url-encoded text. So something like this:
 
 ```
-I'm%20going%20to%20learn%20to%20Code...%20Come%20build%20web%20apps%20with%20me!%20%23CFE%20and%20@justinmitchel%20http://codingforentrepreneurs.com/
+I'm%20going%20to%20learn%20to%20Code...%20Come%20build%20web%20apps%20with%20me!%20%23CFE%20and%20@justinmitchel%20http://site.com/
 
 ```
 Is actually:
 ```
-I'm going to learn to Code... Come build web apps with me! #CFE and @justinmitchel http://codingforentrepreneurs.com/
+I'm going to learn to Code... Come build web apps with me! #CFE and @justinmitchel http://site.com/
 ```
 Notice that spaces are `%20` and hash tags `#` are `%23` instead of actual space. This format will ensure it's shared properly. 
 
@@ -42,11 +42,11 @@ Base url: <a href="https://twitter.com/home?status=">Share on Twitter</a>
 
 Set "?status=" to your html string like: 
 
-I'm%20going%20to%20learn%20to%20Code...%20Come%20build%20web%20apps%20with%20me!%20%23CFE%20and%20@justinmitchel%20http://codingforentrepreneurs.com/
+I'm%20going%20to%20learn%20to%20Code...%20Come%20build%20web%20apps%20with%20me!%20%23CFE%20and%20@justinmitchel%20http://site.com/
 
 Then your <a> tag becomes:
 
-<a href="https://twitter.com/home?status=I'm%20going%20to%20learn%20to%20Code...%20Come%20build%20an%20web%20apsp%20with%20me!%20%23CFE%20and%20@justinmitchel%20http://codingforentrepreneurs.com/">
+<a href="https://twitter.com/home?status=I'm%20going%20to%20learn%20to%20Code...%20Come%20build%20an%20web%20apsp%20with%20me!%20%23CFE%20and%20@justinmitchel%20http://site.com/">
 Share on Twitter
 </a>
 
@@ -56,7 +56,7 @@ Share on Twitter
 
 Google Plus is pretty easy. Use this:
 ```
-<a href='https://plus.google.com/share?url=http://codingforentrepreneurs.com'>
+<a href='https://plus.google.com/share?url=http://site.com'>
 ```
 Replace `http://codingforentrepreneurs.com` with your url
 
@@ -79,7 +79,7 @@ Add your attributes to the base url as needed
 ```
 mini = True #or false
 
-url = http://codingforentrepreneurs.com/ 
+url = http://site.com/ 
 #Your website's url
 
 title = Be%20first%20%7C%20Join%20Swift%20for%20Entrepreneurs 
