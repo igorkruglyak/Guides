@@ -13,7 +13,7 @@ Basic URL Text Encoder: [http://meyerweb.com/eric/tools/dencoder/](http://meyerw
 Share on Facebook
 </a>
 ```
-Naturally you can replace `http://CodingForEntrepreneurs.com/` with your own link.
+Naturally you can replace `http://site.com/` with your own link.
 
 
 ## Twitter
